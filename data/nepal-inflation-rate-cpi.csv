@@ -13,9 +13,8 @@ ATTRIBUTION: Proper attribution requires clear indication of the data source as 
 A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
 
 
-, , , 
-date, Inflation Rate (%), Annual Change, 
-1965-12-31,8.4719
+date, Inflation Rate (%), Annual Change
+1965-12-31,8.4719,nan
 1966-12-31,14.389,5.92
 1967-12-31,-2.8083,-17.2
 1968-12-31,1.1799,3.99
