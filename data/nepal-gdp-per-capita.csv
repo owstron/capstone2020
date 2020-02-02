@@ -13,9 +13,8 @@ ATTRIBUTION: Proper attribution requires clear indication of the data source as 
 A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
 
 
-, , , 
-date, GDP Per Capita (US $), Annual Growth Rate (%), 
-1960-12-31,50.305
+date, GDP Per Capita (US $), Annual Growth Rate (%) 
+1960-12-31,50.305,0
 1961-12-31,51.8112,2.99
 1962-12-31,55.0257,6.2
 1963-12-31,46.8614,-14.84
