@@ -1,6 +1,6 @@
-# Financial Stock Modeling of NYSE and NEPSE
+# Forecasting Stock Returns in NYSE and NEPSE
 
-This project includes the replication of Rapach et. al. (2013) paper (Forecasting Stock Returns) which included models to forecast stock returns in NYSE from 1926 to 2010. I am extending the paper to include the up-to-date dataset and also extend it to Nepalese stock market.
+This is my capstone project which includes code for forecasting stock returns in NYSE and NEPSE. The code includes replication of some models from Rapach et. al. (2013) paper (Forecasting Stock Returns). Then, I have also added Bayesian models trained using PyStan and a RNN-LSTM model.
 
 The Rapach et. al. (2013) paper is available at: https://www.sciencedirect.com/science/article/pii/B9780444536839000062
 The original code for Rapach et. al. (2013) paper is available at: https://sites.google.com/a/slu.edu/rapachde/DataProgramFilesHEF2013.zip
